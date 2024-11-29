@@ -27,7 +27,7 @@
 
 # Microsoft Office For Mac Installer
 
-**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.90 (24101387) (Ongoing, Update Every Month) Minimum 13.x (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)**
+**Microsoft Office LTSC 2021/2024 Suite Installer Volume License Version Version 16.91 (24111020) (Ongoing, Update Every Month) Minimum 13.x (Ventura With M1/M1 PRO/M1 MAX/M1 ULTRA/M2/M2 PRO/M2 MAX/M2 ULTRA/M3/M3 PRO/M3 MAX/M3 ULTRA/macOS Sequoia Native Support)**
 
 [Microsoft Office LTSC 2021 / LTSC 2024 / Office 365 Suite Installer](https://go.microsoft.com/fwlink/?linkid=525133)
 
@@ -60,7 +60,7 @@
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 	16.88 (24081116) Maximum 12.0.x (Monterey)**
 
-[DOWNLOAD LINK INSTALLER][https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.89.24091630_Installer.pkg)
+[DOWNLOAD LINK INSTALLER](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_Installer.pkg)
 
 **Microsoft Office 2019/LTSC 2021 Suite Installer Volume License Version 16.78.3 (23102801) (When Serializer 2021 Not Working) Minimum 12.0.x (Monterey)**
 
